@@ -2,14 +2,13 @@ Title: Parcours scolaire
 
 # Présentation de mon parcours scolaire
 
-Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations & **N**umérique) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuites d'études suivantes dans le domaine de l'informatique :
+Après un bac Général spécialité **NSI** (Numérique et sciences informatiques) et **SES**(Sciences économiques et sociales) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuites d'études suivantes dans le domaine de l'informatique :
 
 
 
 **1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
 
 - **<u>Options :</u>**
-    - **SISR** (**S**olutions d’**I**nfrastructure, **S**ystèmes et **R**éseaux) → administration réseaux, cybersécurité, cloud, virtualisation.
     - **SLAM** (**S**olutions **L**ogicielles et **A**pplications **M**étiers) → développement d’applications, web, bases de données.
 
 
@@ -34,6 +33,6 @@ Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
 
 
 
-J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications. J'ai choisi le **STS** du lycée **Léonard de Vinci** de la ville de Melun.
+J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications. J'ai choisi le **BTS** du lycée **Léonard de Vinci** de la ville de Melun.
 
 <img    src="{static}/images/logo&baseline-fondblanc.png" alt="Logo LdV" style="width: 200px;">
